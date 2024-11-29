@@ -174,5 +174,5 @@ This project is open-source and available under the MIT License. See the [LICENS
 
 If you have any questions or suggestions, feel free to reach out via:
 
-- **Email**: examplemail@gmail.com
+- **Email**: ksmdhussain@gmail.com
 - **LinkedIn**: [Mohammad Hussain's LinkedIn](https://www.linkedin.com)
