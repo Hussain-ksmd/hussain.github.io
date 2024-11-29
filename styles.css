@@ -175,6 +175,9 @@ section {
   width: 400px;
   margin: auto 0;
 }
+.section__pic-container img{
+  border-radius: 45px;
+}
 
 .section__text {
   align-self: center;
@@ -429,4 +432,9 @@ footer {
 
 footer p {
   text-align: center;
+}
+
+
+a:focus, button:focus {
+  outline: 2px dashed #000;
 }
